@@ -1,5 +1,5 @@
 # IRCTC Website Replica Mini Project
- This is the replica website of IRCTC as Mini Project.
+ This is the replica website of IRCTC that you can use for mini projects in your college or schools. This Project is made by team of 3 People:- Mayank, Yogesh & Himanshu.
 
 # Frontend Technologies
 HTML5, CSS , Javascript, PHP

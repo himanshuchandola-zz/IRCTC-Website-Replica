@@ -7,6 +7,8 @@ HTML5, CSS , Javascript, PHP
 # Backend Technologies
 MYSQL for Database Connectivity.
 
+- [Installation Guide](https://github.com/himanshuchandola/IRCTC-Website-Replica/wiki)
+
 # Screenshots
 ![Index Page](https://github.com/HimanshuChandola/IRCTC-Website-Replica/blob/main/screenshots/Index%20Page.jpg)
 
